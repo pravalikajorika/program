@@ -10,7 +10,8 @@ public class CharOccurance {
 		
 		int strLen = str.length();
 		
-		for (int i = 0; i < strLen; i++) 	{
+		for (int i = 0; i < strLen; i++) 	
+		{
 			
 			if(str.charAt(i) == 'n');
 			
@@ -23,6 +24,6 @@ public class CharOccurance {
 
 			 	
 		
-	}
+      }
 
 }
